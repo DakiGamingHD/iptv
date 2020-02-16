@@ -1,24 +1,17 @@
-#EXTM3U
-#EXTINF:0, Arena Sport 1
-
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/rs/Arenasport1.rs.png" group-title="SERBIA", Arena Sport 1
 http://catchup.iptv.iinet.rs/chunklist.m3u8?id=147&profile=7&DVR=1&token=dG9rZW49S3NyZVdMWGFGSnZGYndUbmwyVGhoN2Q5dEZsUnRBRVUmaWQ9MTQ3JnNlY3JldD1vdHQ=
 
-#EXTINF:1,Arena Sport 2
-
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/rs/Arenasport2.rs.png" group-title="SERBIA",Arena Sport 2
 http://catchup.iptv.iinet.rs/chunklist.m3u8?id=184&profile=7&DVR=1&token=dG9rZW49S3NyZVdMWGFGSnZGYndUbmwyVGhoN2Q5dEZsUnRBRVUmaWQ9MTg0JnNlY3JldD1vdHQ=
 
-#EXTINF:2,Arena Sport 3
-
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/rs/Arenasport3.rs.png" group-title="SERBIA",Arena Sport 3
 http://catchup.iptv.iinet.rs/chunklist.m3u8?id=185&profile=7&DVR=1&token=dG9rZW49dVNMZHAzSEpQOUVvWjc4TzFlc2V4a01FcFc2amF6QWYmaWQ9MTg1JnNlY3JldD1vdHQ=
 
-#EXTINF:3,Arena Sport 4
-
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/rs/Arenasport4.rs.png" group-title="SERBIA",Arena Sport 4
 http://catchup.iptv.iinet.rs/chunklist.m3u8?id=186&profile=7&DVR=1&token=dG9rZW49cHJXSjVBUWtNeUNXRTh0ZzdlMXBwNTJBdmJ1cTRVWnkmaWQ9MTg2JnNlY3JldD1vdHQ=
 
-#EXTINF:4,Arena Sport 5
-
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/rs/Arenasport5.rs.png" group-title="SERBIA",Arena Sport 5
 http://catchup.iptv.iinet.rs/chunklist.m3u8?id=187&profile=7&DVR=1&token=dG9rZW49cHJXSjVBUWtNeUNXRTh0ZzdlMXBwNTJBdmJ1cTRVWnkmaWQ9MTg3JnNlY3JldD1vdHQ=
 
-#EXTINF:5,Nickelodeon
-
-http://catchup.iptv.iinet.rs/chunklist.m3u8?id=155&profile=2&DVR=1&token=dG9rZW49cHJXSjVBUWtNeUNXRTh0ZzdlMXBwNTJBdmJ1cTRVWnkmaWQ9MTU1JnNlY3JldD1vdHQ=
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/sr/e/ec/O2.TV_logo.png" group-title="SERBIA",O2.TV
+http://catchup.iptv.iinet.rs/chunklist.m3u8?id=79&profile=6&DVR=1&token=dG9rZW49NkpqMlVXMmhzdmtMNU5XXzVtSXVFVklpNW5KblVXa1omaWQ9Nzkmc2VjcmV0PW90dA==
