@@ -1,3 +1,4 @@
+#EXTM3U
 #EXTINF:-1 tvg-logo="https://nstatic.net/img/tv/channels/m/rts-1.png" group-title="SERBIA",RTS 1|HD
 http://catchup.iptv.iinet.rs/chunklist.m3u8?id=77&profile=6&DVR=1&token=dG9rZW49OXpRdWQxZHUybDFQSExpS2tudHdEZEIxRkFaNTR3QWomaWQ9Nzcmc2VjcmV0PW90dA==
 
