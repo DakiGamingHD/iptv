@@ -10,11 +10,35 @@ http://catchup.iptv.iinet.rs/chunklist.m3u8?id=153&profile=1&DVR=1&token=dG9rZW4
 #EXTINF:-1 tvg-logo="https://nstatic.net/img/tv/channels/m/prva.png" group-title="[~ Made By ~] ~~SERBIA~~ [~ DARIS ~]",PRVA
 http://catchup.iptv.iinet.rs/chunklist.m3u8?id=82&profile=2&DVR=1&token=dG9rZW49OXpRdWQxZHUybDFQSExpS2tudHdEZEIxRkFaNTR3QWomaWQ9ODImc2VjcmV0PW90dA==
 
-#EXTINF:-1 tvg-logo="https://nstatic.net/img/tv/channels/m/prva-plus.png" group-title="[~ Made By ~] ~~SERBIA~~ [~ DARIS ~]"
-http://185.229.190.202:80/live/KppXPKtLUO565/13YwL3360/1459.m3u8?token=TUMOUxEKQQlGAVcAU1oAVwAJAltUWwMECgBUVlcHUABSBQQEVlFSBQYWShYSTEpWVVRuUFEbWAUGUFtNQRRBVEQ+D1ZAWEECVQxfAlENGh8WTVhUUBtYBB5HEggHQwgTBVdSAlRVQR9GUR5ABEpWUlhmVVxDUAFREF8MFA8NHhNZDzlWBw8CXQAWXBZRGhQRXUpBGw9XF1heSUADChVAUEIERAhAU1sBUBZKFgJXTV1AS0gbDxswZxBJQAQbFVdfRQgJXEBYQV5XQV4WTRpRQGtLVEpBSwdVXwAQQ1lDAhMaQwtTGj0AXApaA1cVUVddRxsLGwQbThZfCgwIFw5AbkYIAhBYQFEEXABXDUNF
+#EXTINF:-1 tvg-logo="https://nstatic.net/img/tv/channels/m/prva-plus.png" group-title="[~ Made By ~] ~~SERBIA~~ [~ DARIS ~]",PRVA PLUS
+http://bit.ly/2vBqm52
+
+#EXTINF:-1 tvg-logo="https://nstatic.net/img/tv/channels/m/prva-kick.png" group-title="[~ Made By ~] ~~SERBIA~~ [~ DARIS ~]",PRVA KICK
+http://mobilesrbija.gcdn.co/prvakick/tracks-v1a1/mono.m3u8?md5=L6MOWwmttXEcNcDn20l9zg&expires=1582046167
+
+#EXTINF:-1 tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/Prva_FILES_logo.png" group-title="[~ Made By ~] ~~SERBIA~~ [~ DARIS ~]",PRVA FILES
+http://mobilesrbija.gcdn.co/prvafiles/tracks-v1a1/mono.m3u8?md5=VppQlclMFSKH6_ua_-NDAQ&expires=1582046167
+
+#EXTINF:-1 tvg-logo="https://nstatic.net/img/tv/channels/m/prva-world.png" group-title="[~ Made By ~] ~~SERBIA~~ [~ DARIS ~]",PRVA WORLD
+http://clientportal.link:80/live/KppXPKtLUO565/13YwL3360/13798.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/sr/e/ec/O2.TV_logo.png" group-title="[~ Made By ~] ~~SERBIA~~ [~ DARIS ~]",O2.TV
 http://catchup.iptv.iinet.rs/chunklist.m3u8?id=155&profile=1&DVR=1&token=dG9rZW49OXpRdWQxZHUybDFQSExpS2tudHdEZEIxRkFaNTR3QWomaWQ9MTU1JnNlY3JldD1vdHQ=
+
+#EXTINF:-1 tvg-logo="https://nstatic.net/img/tv/channels/m/prva-plus.png" group-title="[~ Made By ~] ~~SERBIA~~ [~ DARIS ~]",Sportklub 1
+
+
+#EXTINF:-1 tvg-logo="https://nstatic.net/img/tv/channels/m/prva-plus.png" group-title="[~ Made By ~] ~~SERBIA~~ [~ DARIS ~]",Sportklub 2
+
+
+#EXTINF:-1 tvg-logo="https://nstatic.net/img/tv/channels/m/prva-plus.png" group-title="[~ Made By ~] ~~SERBIA~~ [~ DARIS ~]",Sportklub 3
+
+
+#EXTINF:-1 tvg-logo="https://nstatic.net/img/tv/channels/m/prva-plus.png" group-title="[~ Made By ~] ~~SERBIA~~ [~ DARIS ~]",Sportklub 4
+
+
+#EXTINF:-1 tvg-logo="https://nstatic.net/img/tv/channels/m/prva-plus.png" group-title="[~ Made By ~] ~~SERBIA~~ [~ DARIS ~]",Sportklub 5
+
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/rs/Arenasport1.rs.png" group-title="[~ Made By ~] ~~SERBIA~~ [~ DARIS ~]", Arena Sport 1
 http://catchup.iptv.iinet.rs/chunklist.m3u8?id=147&profile=7&DVR=1&token=dG9rZW49OXpRdWQxZHUybDFQSExpS2tudHdEZEIxRkFaNTR3QWomaWQ9MTQ3JnNlY3JldD1vdHQ=
@@ -81,3 +105,15 @@ http://catchup.iptv.iinet.rs/chunklist.m3u8?id=76&profile=3&DVR=1&token=dG9rZW49
 
 #EXTINF:-1 tvg-logo="https://tvprofil.com/img/kanali-logo/vavoom.png" group-title="[~ Made By ~] ~~SERBIA~~ [~ DARIS ~]",Vavoom
 http://catchup.iptv.iinet.rs/chunklist.m3u8?id=212&profile=1&DVR=1&token=dG9rZW49OXpRdWQxZHUybDFQSExpS2tudHdEZEIxRkFaNTR3QWomaWQ9MjEyJnNlY3JldD1vdHQ=
+
+#EXTINF:-1 tvg-logo="https://tvprofil.com/img/kanali-logo/minimax-logo.png" group-title="[~ Made By ~] ~~SERBIA~~ [~ DARIS ~]",MiniMax
+http://mobilesrbija.gcdn.co/minimax/tracks-v1a1/mono.m3u8?md5=gWyEnKE91nC_J6yTxSYmPg&expires=1582046167
+
+#EXTINF:-1 tvg-logo="https://tvprofil.com/img/kanali-logo/disney-junior-logo.png" group-title="[~ Made By ~] ~~SERBIA~~ [~ DARIS ~]",Disney Junior
+http://mobilesrbija.gcdn.co/disneyjunior/tracks-v1a1/mono.m3u8?md5=lh5sKJTWjprjgzRCuHLduQ&expires=1582046167
+
+#EXTINF:-1 tvg-logo="https://tvprofil.com/img/kanali-logo/cartoon-network-logo.png" group-title="[~ Made By ~] ~~SERBIA~~ [~ DARIS ~]",Cartoon Network
+http://mobilesrbija.gcdn.co/cartoonnetwork/tracks-v1a1/mono.m3u8?md5=fu6hZ2PzDDwDk3g3jpXDfg&expires=1582046167
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Boomerang_tv_logo.png" group-title="[~ Made By ~] ~~SERBIA~~ [~ DARIS ~]",Boomerang
+http://mobilesrbija.gcdn.co/boomerang/tracks-v1a1/mono.m3u8?md5=_2Lyxp80Wqfdsf4v6ukjFg&expires=1582046167
